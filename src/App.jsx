@@ -1,7 +1,8 @@
 import React from 'react';
+import { Container } from 'react-bootstrap'
 
 const App = () => {
-  return <div className='App'>Eigth25Media</div>;
+  return <Container className='App'>Eigth25Media</Container>;
 };
 
 export default App;
