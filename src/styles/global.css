@@ -1,0 +1,10 @@
+* {
+  -webkit-box-sizing: border-box !important;
+          box-sizing: border-box !important;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+  overflow-x: hidden !important;
+}
+/*# sourceMappingURL=global.css.map */

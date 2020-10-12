@@ -1,8 +1,14 @@
 import React from 'react';
-import { Container } from 'react-bootstrap'
+import AppBanner from './layouts/AppBanner';
+import AppFooter from './layouts/AppFooter';
 
 const App = () => {
-  return <Container className='App'>Eigth25Media</Container>;
+  return (
+    <>
+      <AppBanner />
+      <AppFooter />
+    </>
+  );
 };
 
 export default App;
